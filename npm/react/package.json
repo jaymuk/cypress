@@ -65,7 +65,7 @@
     "cypress-react-selector": "2.0.4",
     "date-fns": "2.13.0",
     "framer-motion": "2.6.13",
-    "i18next": "19.7.0",
+    "i18next": "26.3.4",
     "lodash": "^4.17.15",
     "mobx": "6.0.0",
     "mobx-react-lite": "3.0.0",
